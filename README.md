@@ -1,4 +1,8 @@
-### Hi there 👋
+ Hi there 👋
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
+
 
 <!--
 **aaiaa-1/aaiaa-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
