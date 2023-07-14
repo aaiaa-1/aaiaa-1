@@ -10,7 +10,7 @@
 
 
 
-- 🎯 I’m currently preparing for **MongoDB DBA Certification**
+- 🎯 I’m currently preparing for my **MongoDB DBA Certification**
 
 - 🤝🏼 I’m looking to collaborate on **your projects**
 
