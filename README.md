@@ -10,7 +10,7 @@
 
 
 
-- 🎯 I’m currently preparing for my **MongoDB Node.js Developer Path Certification**
+- 🎯 I’m currently preparing for my **MongoDB Data Modeling Certification**
 
 - 🤝🏼 I’m looking to collaborate on **your projects**
 
