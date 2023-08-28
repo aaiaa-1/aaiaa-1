@@ -11,6 +11,8 @@
 
 
 - 🎯 I’m currently preparing for my **MongoDB Data Modeling Certification**
+  
+- ❤️‍🔥  I love what i do.
 
 - 🤝🏼 I’m looking to collaborate on **your projects**
 
