@@ -10,7 +10,7 @@
 
 
 
-- 🎯 I’m currently preparing for my **MongoDB Data Modeling Certification**
+- 🎯 I’m currently working as a **freelancer**
   
 - ❤️‍🔥  I love what i do.
 
